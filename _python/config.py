@@ -1,1 +1,32 @@
-# local config only
+/main/.github/CODE_OF_CONDUCT.md
+    about: Please read the code of conduct.
+
+---
+// FILE: .github/ISSUE_TEMPLATE/config.yml
+contact_links:
+  - name: Contributing
+    url: https://github.com/SecOpsNews/news/blob/main/.github/CONTRIBUTING.md
+    about: Please read about contributing.
+  - name: Code of conduct
+    url: https://github.com/SecOpsNews/news/blob/main/.github/CODE_OF_CONDUCT.md
+    about: Please read the code of conduct.
+
+---
+// FILE: .github/ISSUE_TEMPLATE/config.yml
+contact_links:
+  - name: Contributing
+    url: https://github.com/SecOpsNews/news/blob/main/.github/CONTRIBUTING.md
+    about: Please read about contributing.
+  - name: Code of conduct
+    url: https://github.com/SecOpsNews/news/blob/main/.github/CODE_OF_CONDUCT.md
+    about: Please read the code of conduct.
+
+---
+// FILE: .github/ISSUE_TEMPLATE/config.yml
+contact_links:
+  - name: Contributing
+    url: https://github.com/SecOpsNews/news/blob/main/.github/CONTRIBUTING.md
+    about: Please read about contributing.
+  - name: Code of conduct
+    url: https://github.com/SecOpsNews/news/blob/main/.github/CODE_OF_CONDUCT.md
+    about: Please read
